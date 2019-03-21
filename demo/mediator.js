@@ -10,7 +10,7 @@ class MediatorParticipant extends PolymerElement {
     return html`
       <style>
         :host {
-          font-family: sans-serif;
+          font-family: Tahoma;
           width:100vw;
           height:100vh;
           display:inline-block;
